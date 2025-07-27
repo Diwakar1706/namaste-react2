@@ -1,0 +1,31 @@
+{
+  "name": "namasste-react2",
+  "version": "1.0.0",
+  "description": "this is namaste react for learing my deep knowladge in react",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diwakar1706/namaste-react2.git"
+  },
+  "keywords": [
+    "learing",
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Diwakar Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diwakar1706/namaste-react2/issues"
+  },
+  "homepage": "https://github.com/Diwakar1706/namaste-react2#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
