@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is namaste react for learing my deep knowladge in react",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
@@ -26,6 +27,7 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0"
   }
 }
